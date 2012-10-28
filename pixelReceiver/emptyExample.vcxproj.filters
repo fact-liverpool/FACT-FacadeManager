@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\ofxFACTLiverpoolScreen.cpp" />
+    <ClCompile Include="src\testApp.cpp" />
+    <ClCompile Include="..\..\..\addons\ofxNetwork\src\ofxUDPManager.cpp">
+      <Filter>ofxNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxThread\src\ofxThread.cpp">
+      <Filter>ofxThread</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxSunrise.cpp" />
+    <ClCompile Include="src\ofxControlPanel\src\guiBaseObject.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiCallback.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiCallbackValue.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiColor.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTextBase.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiType2DSlider.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeButtonSlider.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeChartPlotter.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeCustom.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypePanel.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeDrawable.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeFileLister.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeLabel.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeLogger.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeMultiToggle.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeSlider.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeText.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeTextDropDown.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeTextInput.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeToggle.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeVairableLister.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiTypeVideo.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\guiValue.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\simpleColor.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\simpleFileLister.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\simpleLogger.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofxControlPanel\src\ofxControlPanel.cpp">
+      <Filter>ofxControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.cpp">
+      <Filter>ofxXmlSettings</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.cpp">
+      <Filter>ofxXmlSettings</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlerror.cpp">
+      <Filter>ofxXmlSettings</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlparser.cpp">
+      <Filter>ofxXmlSettings</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxDirList\src\ofxDirList.cpp">
+      <Filter>ofxDirList</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofxFACTLiverpoolScreen.h" />
+    <ClInclude Include="src\testApp.h" />
+    <ClInclude Include="..\..\..\addons\ofxNetwork\src\ofxNetwork.h">
+      <Filter>ofxNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxNetwork\src\ofxUDPManager.h">
+      <Filter>ofxNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxNetwork\src\ofxNetworkUtils.h">
+      <Filter>ofxNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxThread\src\ofxThread.h">
+      <Filter>ofxThread</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxSunrise.h" />
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeChartPlotter.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiBaseObject.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiCallback.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiCallbackValue.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiColor.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiCustomImpl.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiIncludes.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTextBase.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiType2DSlider.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeButtonSlider.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeCustom.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeDrawable.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeFileLister.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeLabel.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeLogger.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeMultiToggle.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiXmlValue.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypePanel.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeSlider.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeText.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeTextDropDown.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeTextInput.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeToggle.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeVairableLister.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiTypeVideo.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiValue.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\guiVariablePointer.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\simpleLogger.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\simpleColor.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\simpleFileLister.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofxControlPanel\src\ofxControlPanel.h">
+      <Filter>ofxControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.h">
+      <Filter>ofxXmlSettings</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.h">
+      <Filter>ofxXmlSettings</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxDirList\src\ofxDirList.h">
+      <Filter>ofxDirList</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="ofxNetwork">
+      <UniqueIdentifier>{9556035b-d6eb-4a2a-93e2-8b315e12c3b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ofxThread">
+      <UniqueIdentifier>{056229b0-66fc-480b-ae47-e7f412201b5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ofxControlPanel">
+      <UniqueIdentifier>{159d42fd-86f8-45e5-9e10-961239acc01b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ofxXmlSettings">
+      <UniqueIdentifier>{0b402e10-8c32-427a-a024-c960174b6617}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ofxDirList">
+      <UniqueIdentifier>{d195b816-ab89-488a-bfc0-dd3ab5c13694}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
