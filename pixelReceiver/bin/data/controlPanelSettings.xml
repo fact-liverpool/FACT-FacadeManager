@@ -16,3 +16,21 @@
 <CONTENT_TYPE>
     <val_0>1.000000</val_0>
 </CONTENT_TYPE>
+<timeSwitchOff_hour>
+    <val_0>0</val_0>
+</timeSwitchOff_hour>
+<timeSwitchOff_minute>
+    <val_0>0</val_0>
+</timeSwitchOff_minute>
+<Choose_Switch_On_type>
+    <val_0>0</val_0>
+</Choose_Switch_On_type>
+<timeSwitchOn_hour>
+    <val_0>0</val_0>
+</timeSwitchOn_hour>
+<timeSwitchOn_minute>
+    <val_0>0</val_0>
+</timeSwitchOn_minute>
+<Choose_content_type_to_show>
+    <val_0>0</val_0>
+</Choose_content_type_to_show>

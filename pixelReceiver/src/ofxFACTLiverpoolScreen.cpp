@@ -18,7 +18,7 @@ ofxFACTLiverpoolScreen::ofxFACTLiverpoolScreen()
 	offsetBlue	= 4;	///< offset of blue color in package
 	totalAddressByPackage = 2500;
 	
-	printf("%d %d %d\n", sizeof(unsigned short), sizeof(unsigned char), sizeof(Packet));
+	//printf("%d %d %d\n", sizeof(unsigned short), sizeof(unsigned char), sizeof(Packet));
 	// create array
 	for (unsigned short address = 0; address < nrAddresses; address++) 
 	{

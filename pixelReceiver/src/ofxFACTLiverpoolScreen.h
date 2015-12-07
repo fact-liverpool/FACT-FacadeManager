@@ -11,7 +11,7 @@
 #define _FRAME_H
 
 #include "ofMain.h"
-#include "ofxUDPManager.h"
+#include "ofxNetwork.h"
 
 #pragma pack(push,1)
 struct Packet

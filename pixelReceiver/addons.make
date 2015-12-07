@@ -1,0 +1,3 @@
+ofxControlPanel
+ofxNetwork
+ofxXmlSettings
